@@ -1,3 +1,3 @@
 console.log("Ola mundo")
 
-console.log("sem eskandalo familia")
+console.log("sem escândalo familia")
