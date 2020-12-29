@@ -7,9 +7,12 @@ console.log("sem escândalo familia")
  * @param {number} num numero para analizar
  * @param {boolean} isEven variavel que indicará se este número é par ou não
  */
-isEven = false
-let num = 4;
-if(num %2 === 0){
-  isEven = true;
+function isEven(number){
+    if(number %2 === 0)
+    {
+     return true
+    } else {
+        return false
+    }
 }
-console.log(isEven)
+console.log(isEven(4))
