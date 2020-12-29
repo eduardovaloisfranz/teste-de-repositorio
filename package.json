@@ -1,0 +1,34 @@
+{
+  "name": "testerepo",
+  "version": "0.0.1",
+  "description": "kktonanevimentamono9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dudufranz@bitbucket.org/dudufranz/teste-de-repositorio.git"
+  },
+  "keywords": [
+    "eutonanavikkk"
+  ],
+  "author": "eduardo valois franz",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/dudufranz/teste-de-repositorio#readme",
+  "dependencies": {
+    "@commitlint/config-conventional": "^11.0.0",
+    "commitlint": "^11.0.0",
+    "husky": "^4.3.6"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
