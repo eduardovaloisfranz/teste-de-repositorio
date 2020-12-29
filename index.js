@@ -6,10 +6,6 @@ console.log("sem escândalo familia")
  * @param {boolean} isEven variavel que indicará se este número é par ou não
  */
 function isEven(number){
-    if(number %2 === 0) {
-     return true
-    } else {
-        return false
-    }
+  return number %2 === 0
 }
 console.log(isEven(4))
