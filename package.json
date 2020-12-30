@@ -1,16 +1,17 @@
 {
   "name": "testerepo",
-  "version": "0.0.1",
+  "version": "0.0.0-development",
   "description": "kktonanevimentamono9",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "npx cz",
-    "release": "semantic-release --no-ci"
+    "release": "semantic-release --no-ci",
+    "semantic-release": "semantic-release"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://dudufranz@bitbucket.org/dudufranz/teste-de-repositorio.git"
+    "url": "git+https://bitbucket.org/dudufranz/teste-de-repositorio.git"
   },
   "keywords": [
     "eutonanavikkk"
@@ -20,12 +21,10 @@
   "homepage": "https://bitbucket.org/dudufranz/teste-de-repositorio#readme",
   "dependencies": {
     "@commitlint/config-conventional": "^11.0.0",
-    "@semantic-release/changelog": "^5.0.1",
-    "@semantic-release/git": "^9.0.0",
+    "@iteratec/semantic-release-bitbucket": "^1.1.1",
     "commitizen": "^4.2.2",
     "commitlint": "^11.0.0",
-    "husky": "^4.3.6",
-    "semantic-release": "^17.3.0"
+    "husky": "^4.3.6"
   },
   "commitlint": {
     "extends": [
@@ -36,5 +35,10 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "semantic-release": "^17.3.1"
   }
 }
