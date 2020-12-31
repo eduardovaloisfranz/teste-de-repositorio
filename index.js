@@ -10,5 +10,5 @@ function isEven(number){
 }
 console.log(isEven(4))
 
-
-console.log("Adeus!")
+let currentYear = new Date().getFullYear();
+console.log(`Adeus - ${currentYear}`)
