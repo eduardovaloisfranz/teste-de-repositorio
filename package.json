@@ -2,8 +2,7 @@
   "name": "testerepo",
   "version": "1.1.0",
   "description": "kktonanevimentamono9",
-  "type": "module",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "commit": "npx cz",
@@ -25,6 +24,7 @@
     "@iteratec/semantic-release-bitbucket": "^1.1.1",
     "commitizen": "^4.2.2",
     "commitlint": "^11.0.0",
+    "express": "^4.17.1",
     "husky": "^4.3.6"
   },
   "commitlint": {
