@@ -5,7 +5,11 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 const port = 3000
 
-let persons = []
+let persons = [{
+  id: 0,
+  nome: "PrimeiraPessoa",
+  idade: 20
+}]
 
 app.get('/', (req, res) => {
   if(persons){
@@ -19,7 +23,7 @@ app.get('/', (req, res) => {
 
 app.post("/add", (req, res) => {
   let personToAdd = req.body;
-  console.log(personToAdd)
+  personToAdd.id = persons[persons.length - 1].id + 1;
   if(personToAdd){
     persons.push(personToAdd)
     res.status(201)
