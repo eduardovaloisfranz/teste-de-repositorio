@@ -24,6 +24,7 @@
     "@iteratec/semantic-release-bitbucket": "^1.1.1",
     "commitizen": "^4.2.2",
     "commitlint": "^11.0.0",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "husky": "^4.3.6"
   },
