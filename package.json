@@ -1,6 +1,6 @@
 {
   "name": "testerepo",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "kktonanevimentamono9",
   "type": "module",
   "main": "index.js",
@@ -33,9 +33,7 @@
     ]
   },
   "husky": {
-    "hooks": {
-      "commit-msg" : "commitlint -E HUSKY_GIT_PARAMS"
-    }
+    "hooks": {}
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",

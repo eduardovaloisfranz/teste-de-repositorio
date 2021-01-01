@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v1.0.0...v1.1.0) (2021-01-01)
+
+
+### Bug Fixes
+
+* commit de release nao ignorava os erros ([62d6d43](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/62d6d438c9eb3bc4edc86e56ec6fa526beb808bf))
+* **helper:** removido mensagem no console desncessaria usada para testes internos ([f01bc7b](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/f01bc7bde977f29f1280023c344904eee2e33605))
+
+
+### Features
+
+* apresenta para usuario ano atual e o proximo e um booleano refente a ter sorte no proximo ano ([900c135](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/900c1358f4cadc350a9376a4acf3396c6747a69e))
+* mensagem Mais amigavel ao usuario refente ao proximo ano ([40e6285](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/40e6285e7472657579894aeaf5ae915b19575403)), closes [#3](https://github.com/eduardovaloisfranz/teste-de-repositorio/issues/3)
+
 # 1.0.0 (2021-01-01)
 
 
