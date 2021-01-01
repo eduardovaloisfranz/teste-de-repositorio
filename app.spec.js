@@ -9,8 +9,4 @@ describe("Testing my Api", () => {
         expect(res.body[0]).toHaveProperty('nome')
         expect(res.body[0]).toHaveProperty('idade')
     })
-
-    it("should teste that === true", () => {
-        expect(true).toBe
-    })
 })
