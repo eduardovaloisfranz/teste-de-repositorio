@@ -1,0 +1,19 @@
+<div>
+    <div>
+        <div *ngIf="!loading" class="flex">
+            <div *ngFor="let person of persons">
+                <div class="flex card-style">
+                    <p>
+                        {{person.nome}}
+                    </p>
+                    <p>{{person.idade}}</p>
+                </div>
+            </div>
+        </div>
+        <div *ngIf="loading" class="flex">
+            <div style="justify-content: center;">
+                <h1>Carregando.....</h1>
+            </div>
+        </div>
+    </div>
+</div>

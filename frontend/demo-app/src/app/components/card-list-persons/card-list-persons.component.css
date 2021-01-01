@@ -1,0 +1,15 @@
+.flex {
+  display: flex;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+.card-style {
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+  background-color: #cccccc;
+  margin: 10px;
+}
