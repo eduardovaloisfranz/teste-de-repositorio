@@ -13,7 +13,7 @@ let persons = [{
   idade: 20
 }]
 
-app.get('/', (req, res) => {
+app.get('/', (res) => {
   if(persons){
     res.status(200)
     res.send(persons)
