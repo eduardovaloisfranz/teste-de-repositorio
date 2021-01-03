@@ -1,3 +1,38 @@
+# [2.0.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v1.1.0...v2.0.0) (2021-01-03)
+
+
+### Bug Fixes
+
+* adicao do componente CardListPersons ao modulo raiz ([a9436f5](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/a9436f56bdddd4cc5a1e8e105a94a8eeca901b1b))
+* **api:** adicao CORS api ([6ca130d](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/6ca130d15930e75d203981122747a6dc2b447ee1))
+* **api:** id setado automatico ([2555c62](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/2555c62bf4a7d932170b1c95d5c2adbe975e913e))
+
+
+### Code Refactoring
+
+* **frontend:** removido projeto demo com Vue ([2bd05bf](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/2bd05bf581b8a347456b75e311f32e497c16d2c9))
+
+
+### Features
+
+* remocao tela padrao angular para exibir card que lista usuarios ([9e90094](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/9e900942160cbde58a31ea80f8f7731ef275e2ba))
+* **api:** criacao da api base ([411948e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/411948e879b7d095a2f442ef15f631abdd0cdca8))
+* **cardlistperson:** criacao card que Lista as Pessoas ([27c3955](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/27c3955859d09762cf1d286bab4c64a34b45f028))
+* **frontend:** add projeto base com Vue Frontend gerado pela CLI ([80f0816](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/80f0816281b060abd6f1c916005ea352b76d2b3b))
+* **frontend:** adicao do Framework Angular para o Projeto ([e2b58b1](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/e2b58b1ef0577e5daa58ed938a13ffd420b5403b))
+
+
+### Reverts
+
+* Revert "test(frontend): remocao de testes desnecessarios" ([c1b46c0](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/c1b46c0240be06592574676bf0d340b72173aa50))
+
+
+### BREAKING CHANGES
+
+* **frontend:** Substituicao do VueJS para o Angular
+* **frontend:** Troca de framework FrontEnd. Remocao do VueJS
+* **api:** ID agora não precisa ser mais fornecido
+
 # [1.1.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v1.0.0...v1.1.0) (2021-01-01)
 
 
