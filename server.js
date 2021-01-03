@@ -12,8 +12,9 @@ let persons = [{
   nome: "PrimeiraPessoa",
   idade: 20
 }]
+const teste = "API"
 
-app.get('/', (res) => {
+app.get('/', (req, res) => {
   if(persons){
     res.status(200)
     res.send(persons)
