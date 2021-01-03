@@ -12,13 +12,13 @@ export class CardListPersonsComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
-    this.getAllPersons();
+  async ngOnInit() {
+    await this.getAllPersons();
   }
   
-  getAllPersons() {
+  async getAllPersons() {
     const URL_TO_FETCH = "http://localhost:3000/"
-    fetch(URL_TO_FETCH).then(res => { res.json().then(res => {
+    await fetch(URL_TO_FETCH).then(res => { res.json().then(res => {
       this.persons = res;
       this.loading = false
     })})
