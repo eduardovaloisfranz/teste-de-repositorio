@@ -25,6 +25,6 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm install
-    - run: jest --watchAll jest --findRelatedTests app.spec.js
+    - run: npx jest --watchAll jest --findRelatedTests app.spec.js
       env: 
         CI: true
