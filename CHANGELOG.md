@@ -1,3 +1,23 @@
+# [2.1.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.0.0...v2.1.0) (2021-01-04)
+
+
+### Bug Fixes
+
+* **api:**  add teste string ([798a86a](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/798a86a4c7cc976b4f0f52ac24f40c473dd60974))
+* **api:** readicinado parametro REQ no getAllPersons ([8842d2d](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/8842d2db476590b6b7a95ba5a29fb333bb0fb494))
+
+
+### Features
+
+* add Github Action ao Projeto ([5b806be](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/5b806be6d900bfd99ac6518df3205f1e5ee61bc3))
+* add github actions ([c85fc55](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/c85fc55e0c8764b4db84a8cd4c3e6e16ee213467))
+* add Github Actions ([5175ff3](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/5175ff3aca4e3b33217f939e1045842a7af6fff3))
+* add Github Actions ([156101c](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/156101c5713089187cd6c6ed09efc886a0f7e1a7))
+* add Github Actions ([8c50358](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/8c50358343f0df251b6a3c474dcd2927bfadc846))
+* add Github Actions ([a291915](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/a291915b15108d20005f532dd4da8a885ef1b2c4))
+* add Github AcTIONS ([0ff6643](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/0ff664361b8f30237db128853947a61eb8656a79))
+* add Script para fazer Deploy ([d633566](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/d633566c087a5a522d6155f58e8fdb9e5a810175))
+
 # [2.0.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v1.1.0...v2.0.0) (2021-01-03)
 
 
