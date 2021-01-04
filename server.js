@@ -12,6 +12,7 @@ let persons = [{
   nome: "PrimeiraPessoa",
   idade: 20
 }]
+const teste = "API"
 
 app.get('/', (req, res) => {
   if(persons){

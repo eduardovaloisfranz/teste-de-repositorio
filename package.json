@@ -4,7 +4,7 @@
   "description": "kktonanevimentamono9",
   "main": "app.js",
   "scripts": {
-    "testApi": "jest --watchAll jest --findRelatedTests app.spec.js",
+    "testApi": "npx  jest --watchAll=false jest --findRelatedTests app.spec.js",
     "commit": "npx cz",
     "release": "semantic-release --no-ci",
     "semantic-release": "semantic-release"
