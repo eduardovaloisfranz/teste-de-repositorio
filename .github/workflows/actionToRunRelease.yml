@@ -26,4 +26,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: npx semantic-release
       - name: Teste       
-        run: echo ${secrets.GITHUB_TOKEN}}
+        run: echo ${{secrets.GITHUB_TOKEN}}
