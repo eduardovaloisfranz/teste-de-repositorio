@@ -25,4 +25,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN}}
           CI: true 
-        run: npx semantic-release --debug --branches master     
+        run: npx semantic-release --debug
