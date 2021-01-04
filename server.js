@@ -13,6 +13,7 @@ let persons = [{
   idade: 20
 }]
 const teste = "API"
+const teste2 = "Teste"
 
 app.get('/', (req, res) => {
   if(persons){
@@ -43,4 +44,5 @@ app.get("/ola", (req, res) => {
     mensagem: 'Ola Mundo'
   })
 })
+
 module.exports = app;
