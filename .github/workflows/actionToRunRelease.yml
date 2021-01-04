@@ -1,4 +1,4 @@
-name: Release
+name: Release. Ação para realizar o semantic release e atualizar o changelog e o controle de releases do github
 on:
   pull_request:
     branches:
