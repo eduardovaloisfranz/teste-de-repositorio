@@ -1,3 +1,11 @@
+# [2.2.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.1.0...v2.2.0) (2021-01-04)
+
+
+### Features
+
+* **api:** add route /ola ([4e24aca](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/4e24aca9e0bc22f638bc243b7c335aa67ef1da3a))
+* add action para deploy ([585918a](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/585918a6566ae739c6cac764fc6a7abdde568317))
+
 # [2.1.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.0.0...v2.1.0) (2021-01-04)
 
 
