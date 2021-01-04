@@ -5,10 +5,10 @@ on:
       - master
     types: [closed]
 jobs:
-  release:
-    name: Ação para realizar o semantic release e atualizar o changelog e o controle de releases do github
+  release:    
     if: github.event.pull_request.merged == true
     runs-on: ubuntu-latest
+    name: Ação para realizar o semantic release e atualizar o changelog e o controle de releases do github
     steps:
       - name: Checkout
         uses: actions/checkout@v2
