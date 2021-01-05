@@ -34,7 +34,9 @@
     ]
   },
   "husky": {
-    "hooks": {}
+    "hooks": {
+      "commit-msg" : "commitlint -E HUSKY_GIT_PARAMS"
+    }
   },
   "devDependencies": {
     "@semantic-release/changelog": "^5.0.1",

@@ -17,4 +17,13 @@ describe("Testing my Api", () => {
         result = res.body.mensagem
         expect(result).toBe("Ola Mundo")
     })
+
+    it("should return teste in route /eae", async ()=> {
+        const res = await request(app).get("/eae")
+        console.log(res.body)
+        let result = res.body        
+        expect(result).toHaveProperty("mensagem")
+        result = res.body.mensagem
+        expect(result).toBe("teste")
+    })
 })
