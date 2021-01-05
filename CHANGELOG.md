@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.4.0...v2.5.0) (2021-01-05)
+
+
+### Features
+
+* **api:** modificao string teste ([9a9a3ff](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/9a9a3ff2874411a900ba706abb839f64ee929dcd))
+
 # [2.4.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.3.0...v2.4.0) (2021-01-05)
 
 
