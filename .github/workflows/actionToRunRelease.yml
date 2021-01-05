@@ -24,4 +24,4 @@ jobs:
       - name: Release
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN}}        
-        run: npx semantic-release --debug
+        run: GH_TOKEN = ${{secrets.GH_TOKEN}} npx semantic-release --debug
