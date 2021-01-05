@@ -46,4 +46,11 @@ app.get("/ola", (req, res) => {
   })
 })
 
+app.get("/eae", (req, res) => {
+  res.status(200)
+  res.send({
+    mensagem: 'teste'
+  })
+})
+
 module.exports = app;
