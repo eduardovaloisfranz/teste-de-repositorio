@@ -14,7 +14,7 @@ let persons = [{
 }]
 const teste = "API"
 const teste2 = "Teste"
-const teste3 = "TesteNovo11"
+const teste3 = "TesteNovo12"
 
 app.get('/', (req, res) => {
   if(persons){
