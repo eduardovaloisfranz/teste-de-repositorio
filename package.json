@@ -1,6 +1,6 @@
 {
   "name": "testerepo",
-  "version": "2.3.0",
+  "version": "2.4.0",
   "description": "kktonanevimentamono9",
   "main": "app.js",
   "scripts": {
@@ -35,7 +35,7 @@
   },
   "husky": {
     "hooks": {
-      "commit-msg" : "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
   },
   "devDependencies": {
