@@ -1,3 +1,61 @@
+# [2.3.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.2.0...v2.3.0) (2021-01-05)
+
+
+### Bug Fixes
+
+* add scriptToRunRelease.yml ([d22fe18](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/d22fe18f182aec00726107663f3ced4ed9a09eb9))
+* removido arquivo que continha token excluido ([4939d52](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/4939d52b708c2f8fea8bdc5b43451a1632aff817))
+* script release automatico corrigido step ([5f4a62c](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/5f4a62c1cdfac89578f374f7e883b42132ca863d))
+* update .releasesrc.json ([6d4ad9d](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/6d4ad9d880fe1ba6747a163aabb27efd665a56f1))
+* update actionToRelease.yml ([02eb708](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/02eb7085f48ffae7099944b01750cb96b974df01))
+* **api:** re-adicionado rota que retorna Ola ([01ff4f0](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/01ff4f0ae7c6dcbd72e7e03633e3a4b6895f69e5))
+
+
+### Features
+
+* actionToRunRelease ([1e67b54](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/1e67b545b2e2cae6d030898d345656e8c07a4e4c))
+* **api:** add string teste ([310ff3a](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/310ff3a9b1ef3b03a111677f4f88de5d84df95db))
+* add actionToRunRelease.yml ([f6c7879](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/f6c787990c77f797cc4b0496ff581e511ab53d6a))
+* add actionToRunRelease.yml ([fabd118](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/fabd118a35c9b76e132ce9f717667fd8fb15667d))
+* add actionToRunRelease.yml ([7f0c75d](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/7f0c75d3f05339df9914fe5a2dcb09e334918941))
+* add actionToRunRelease.yml ([58192d4](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/58192d4bd3376308c33b0794e51cf487151efc77))
+* add actionToRunRelease.yml ([b8b8f93](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/b8b8f936ebb28d3bcbf64c04b7a8ce859890a7a0))
+* add status string ([de690e4](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/de690e4af0ee13a5008b03f574ce818aae67390a))
+* add string teste ([c9253fa](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/c9253fa398c8632ee30571d74c98e76ef64a6848))
+* **api:** add string ([f9db7c0](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/f9db7c09b644135adabbc321c5fcccd057495e8f))
+* **api:** add string teste ([72c7b97](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/72c7b97c9ddb9f891cb029535485066c452280e6))
+* **api:** add string teste ([a7c7671](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/a7c767152d1586a8f185c85c961d1e1071f42a12))
+* **api:** add string teste ([5a5dad3](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/5a5dad3c7fa059b585a0e315fbdedf8f5e8faddd))
+* **api:** add string teste ([b6902ae](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/b6902aec9d9042952082c34abffcf15f69857b70))
+* **api:** add string teste ([65308f5](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/65308f51bcc91311d26eb4afa9938615451f2b5e))
+* **api:** add string teste ([d2cdb74](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/d2cdb7451325647ffd69f33f2fa5b7d579e7f860))
+* **api:** add string teste ([564c856](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/564c856b0423a3cf624b03b133ae612f3a5a846c))
+* **api:** add string teste ([70f795e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/70f795ea302fea7735c840396cd59279e9db11bf))
+* **api:** add string teste ([d915293](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/d915293268d4469856085ce6bbc213f388a59da0))
+* actionToRunRelease ([7ef2240](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/7ef22405ee515c8b884b0c140fab14728f4b1158))
+* actionToRunRelease.yml ([8e3692b](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/8e3692b40ad578ca9f257042f81edeb4b5b6edc8))
+* add actionToRunRelease ([f5b067e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/f5b067e2a824f11fbd58c948aa2b40dcfc2fe1d6))
+* **api:** add string teste ([00ab6f2](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/00ab6f2cc822bd862bc23fc6125317035d5ec64e))
+* **api:** add string teste ([d9a973b](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/d9a973b682f4d20e4e888992ba7b23bb53dd6f6b))
+* **api:** add string teste ([bcf9143](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/bcf914390117eab17380f0b0c956a4113a0ab1b6))
+* **api:** add string to route ([ba993da](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/ba993daba2b5a71ba11f79b7cbe7c0eb57be937f))
+* actionToRelease.yml ([6201295](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/6201295db2959a3897d054e71ecde5e0c38dcaf4))
+* add actionToRelease ([e938346](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/e93834684dd80dccb4ad241bf66479fd2cc127ce))
+* add actionToRunRelease.yml ([11807b7](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/11807b70a84e866b69e6a52b97f598beae6b5062))
+* add actionToRunRelease.yml ([7a579ee](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/7a579eed26a4208fcaa36527500b4ff85f5efe57))
+* **api:** modify value of string ([eaaa6cc](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/eaaa6cca881619ad4faac4235664c41f14668dda))
+* add action Para rodar o semantic-release  ([58d8cb6](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/58d8cb698c65daf8398dc157990d2d6bf11a6232))
+* add semantic release to project ([e10144e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/e10144eaff0893540c0f5b0c782e1680ac1db718))
+* change name node.js.yml ([0286f5d](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/0286f5d34f7c3b99372b2bf1761bd460073e5eb0))
+* deployBackendEnv.yml ([ebeb74e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/ebeb74e08e1956c3373bac0cd8da78f693e9f670))
+* update actionToRunRelease ([85fc94c](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/85fc94cb3edae7c2852d3467d33c5f7bb767c93a))
+* update actionToRunRelease ([0b8c5a4](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/0b8c5a42b56155382da1f06928b931573596da35))
+* update actionToRunRelease ([7cfc25e](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/7cfc25ed5c56aff2c26d5fc176defbaf321135a0))
+* update node.js.yml ([6a75cab](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/6a75cabd43fe39ddff7099caa840e87bad731bc8))
+* **api:** add string teste ([bd75aaf](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/bd75aaffdde191772f0989e5a791825c5213a9e7))
+* **api:** add string teste ([9aa39fe](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/9aa39fec585698cf9ebe6758a59a60a5cdcd8adc))
+* **api:** teste auto-semantic release ([6d07d43](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/6d07d431e9563006fa9228c961c731e26f60b5d8))
+
 # [2.2.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.1.0...v2.2.0) (2021-01-04)
 
 
