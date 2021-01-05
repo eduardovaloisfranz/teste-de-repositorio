@@ -1,5 +1,5 @@
 {
-  "branches": ["master", "releases"],
+  "branches": ["master"],
   "dryRun": false,
   "ci": false,
   "plugins": [
