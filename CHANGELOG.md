@@ -1,3 +1,11 @@
+# [2.4.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.3.0...v2.4.0) (2021-01-05)
+
+
+### Features
+
+* **api:** add route /eae ([da9b689](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/da9b689ccb542c0b72be8d734f93aa85e6009c29))
+* update fix ([0662e38](https://github.com/eduardovaloisfranz/teste-de-repositorio/commit/0662e384c404d8b25e74d587a6c4a0952c470766))
+
 # [2.3.0](https://github.com/eduardovaloisfranz/teste-de-repositorio/compare/v2.2.0...v2.3.0) (2021-01-05)
 
 
